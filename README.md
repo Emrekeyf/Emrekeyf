@@ -18,6 +18,15 @@ Akademik çalışmalarımda teorik bilgileri gerçek uygulamalara dönüştürme
 
 ## 🚀 Projelerim
 
+### 📊 SQL + Python Satış Verileri Analizi
+
+Python, SQLite ve SQL kullanarak 500 sentetik satış kaydını analiz ettim. Ürün satışları, şehir bazlı gelir dağılımı ve aylık satış eğilimleri için sorgular, raporlar ve grafikler hazırladım.
+
+**Teknolojiler:** Python, SQL, SQLite, Matplotlib
+
+[Projeyi İncele](https://github.com/Emrekeyf/sql-python-sales-analysis)
+
+
 ### 🫁 Akciğer Segmentasyonu — U-Net
 Akciğer röntgenlerinden maske çıkarma ve klasik görüntü işleme yöntemleriyle karşılaştırma.
 
